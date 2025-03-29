@@ -18,7 +18,7 @@
     <artifactId>springboot-kafka-microservices</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springboot-kafka-microservices</name>
-    <description>Demo project for Spring Boot and Kafka</description>
+    <description>springboot-kafka-microservices</description>
     <packaging>pom</packaging>
     <properties>
         <java.version>11</java.version>
